@@ -1,0 +1,5 @@
+通用型RBS——aaaggaggtgt
+弱RBS——agaggtggtgt
+强RBS——atattaagaggaggag	或  agagaacaaggagggg
+
+注：枯草芽孢杆菌具有与大肠杆菌相同的RBS系统，但RBS序列并不总是兼容，枯草芽孢杆菌的rRNA序列与大肠杆菌相比略有不同.大肠杆菌RBS通常不完全适用于枯草芽孢杆菌，但在枯草芽孢杆菌RBS中找到在大肠杆菌中表现良好的菌株并不罕见。
